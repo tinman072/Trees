@@ -7,3 +7,12 @@ C:\Users\mastermind\Desktop\WorkSpace\Trees\Trees\obj\Debug\Trees.vbproj.Generat
 C:\Users\mastermind\Desktop\WorkSpace\Trees\Trees\obj\Debug\Trees.exe
 C:\Users\mastermind\Desktop\WorkSpace\Trees\Trees\obj\Debug\Trees.xml
 C:\Users\mastermind\Desktop\WorkSpace\Trees\Trees\obj\Debug\Trees.pdb
+C:\Users\Quasem\Desktop\Trees\Trees\bin\Debug\Trees.exe.config
+C:\Users\Quasem\Desktop\Trees\Trees\bin\Debug\Trees.exe
+C:\Users\Quasem\Desktop\Trees\Trees\bin\Debug\Trees.pdb
+C:\Users\Quasem\Desktop\Trees\Trees\bin\Debug\Trees.xml
+C:\Users\Quasem\Desktop\Trees\Trees\obj\Debug\Trees.Resources.resources
+C:\Users\Quasem\Desktop\Trees\Trees\obj\Debug\Trees.vbproj.GenerateResource.Cache
+C:\Users\Quasem\Desktop\Trees\Trees\obj\Debug\Trees.exe
+C:\Users\Quasem\Desktop\Trees\Trees\obj\Debug\Trees.xml
+C:\Users\Quasem\Desktop\Trees\Trees\obj\Debug\Trees.pdb
