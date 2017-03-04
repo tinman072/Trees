@@ -139,6 +139,20 @@
             End If
         End Function
 
+        Function sizeOfTree(ByVal r As Integer)
+            If r = nullptr Then
+                Return 0
+            Else
+                Dim left As Integer
+                Dim right As Integer
+
+                left = sizeOfTree(treelist(r).left)
+                right = sizeOfTree(treelist(r).right)
+
+                Return left + right + 1
+            End If
+        End Function
+
         Function findMin(ByVal r As Integer)
             If treelist(r).left = nullptr Then
                 Return r
@@ -154,6 +168,21 @@
                 Return findMax(treelist(r).right)
             End If
         End Function
+
+        Sub mirrorTree(ByVal r As Integer)
+            If r = nullptr Then
+                Exit Sub
+            End If
+
+            mirrorTree(treelist(r).left)
+            mirrorTree(treelist(r).right)
+
+            Dim temp As Integer
+
+            temp = treelist(r).left
+            treelist(r).left = treelist(r).right
+            treelist(r).right = temp
+        End Sub
 
 
     End Structure

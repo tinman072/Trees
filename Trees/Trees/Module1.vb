@@ -25,6 +25,13 @@
         Console.WriteLine(t.findMin(0))
         Console.WriteLine(t.findMax(0))
 
+        Console.WriteLine(t.sizeOfTree(0))
+
+        t.mirrorTree(0)
+
+        t.inOrderPrint(0)
+        Console.WriteLine("")
+
     End Sub
 
 End Module
